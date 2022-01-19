@@ -17,6 +17,12 @@ header{
     text-align: center;
 }
 
+.capa{
+    width: 90%;
+    max-width: 900px;
+    min-width: 450px;
+}
+
 nav{
     text-align: center;
     background-color: #8c655dd8;
@@ -56,7 +62,7 @@ main h1{
 }
 
 main p{
-    margin: 15px 0px;
+    margin: 20px 0px;
     padding: 5px;
     text-align: justify;
     text-indent: 30px;
@@ -65,7 +71,14 @@ main p{
 } 
 
 main img{
+    margin: 10px 40px;
     border: 5px solid #8C655D;
+}
+
+.tamanho{
+    width: 90%;
+    max-width: 640px;
+    min-width: 320px;
 }
 
 footer{

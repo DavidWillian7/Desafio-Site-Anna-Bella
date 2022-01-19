@@ -18,7 +18,7 @@ header{
 }
 
 .capa{
-    width: 90%;
+    width: 100%;
     max-width: 900px;
     min-width: 450px;
 }
@@ -27,7 +27,7 @@ nav{
     text-align: center;
     background-color: #8c655dd8;
     padding: 18px;
-    max-width: 877px;
+    max-width: 865px;
     margin: auto;
 }
 
@@ -48,7 +48,7 @@ main{
     padding: 10px;
     background-color: white;
     min-width: 300px;
-    max-width: 890px;
+    max-width: 880px;
     margin: auto;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;

@@ -12,7 +12,7 @@ Página com a descrição e imagens dos trabalhos da modelo, as imagens também 
 
 <img src="imagens/tela2.png" alt="página campanhas publicitárias">
 
-### Contado:
+### Contato:
 Página com instruções de como entrar em contato com a modelo.
 
 ## Feito Com:
